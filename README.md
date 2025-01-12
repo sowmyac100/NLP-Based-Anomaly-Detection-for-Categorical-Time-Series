@@ -16,3 +16,4 @@ Anomaly Detection:
 
 The forecasting errors (the difference between the predicted and actual values) are used to detect anomalies.
 A threshold based on the 95th percentile of the prediction errors is used to flag time steps as anomalies.
+
